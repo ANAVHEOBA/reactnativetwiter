@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Twitter App 2024",
+    "slug": "twitter-app-2024",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "A Twitter clone of the app as of 2024.",
+    "githubUrl": "https://github.com/ANAVHEOBA/react-native-twitter"
+  }
+}
